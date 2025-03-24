@@ -3,9 +3,6 @@ title: Сергей Останин
 description: Мое профессиональное резюме
 date: 2023-10-01
 ---
-
-> [!Foto]- Сергей Останин
-> ![фото](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWA1NEsv49mEoswFVPYqPg11I1YaLfi7acG1X7gVu8K8qfUr6LxVkRojd4XZPhNzzuqFCHy2Xz-OWMZYXHFpeM4yEeIA3huo3Pv4LAtSSwFtSs6MNcOzr7jG2SsHf-rKpdYedhEvebWlgJaHT25UM?key=fl5Gmu4uVwLaqQnCJS94HwAW)
 ## Контактная информация   
 - **ФИО**: Останин Сергей Анатольевич 
 - [фото](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWA1NEsv49mEoswFVPYqPg11I1YaLfi7acG1X7gVu8K8qfUr6LxVkRojd4XZPhNzzuqFCHy2Xz-OWMZYXHFpeM4yEeIA3huo3Pv4LAtSSwFtSs6MNcOzr7jG2SsHf-rKpdYedhEvebWlgJaHT25UM?key=fl5Gmu4uVwLaqQnCJS94HwAW)
