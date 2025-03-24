@@ -175,10 +175,10 @@ a {
     }
 
     @media all and not ($desktop) {
-      padding: 16 1rem;
+      padding: 0 1rem;
     }
     @media all and ($mobile) {
-      margin: 0 auto;
+      margin: 16 auto;
     }
 
     & .sidebar {
