@@ -55,6 +55,10 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.Component.Script({
+        src: "/js/password-protection.js",
+        loadTime: "beforeDOMReady",
+      }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
@@ -86,10 +90,6 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Component.Script({
-  src: "/js/password-protection.js",
-  loadTime: "beforeDOMReady",
-}),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
